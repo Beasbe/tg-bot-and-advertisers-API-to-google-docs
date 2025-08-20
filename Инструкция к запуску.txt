@@ -1,0 +1,14 @@
+1 Вариант
+PS ^^^^^
+docker build -t my-python-app .
+docker run my-python-app <Дата> <Курс Доллара>
+^^^^^^^^
+
+2 Вариант
+PS ^^^^^
+pip install gspread, datetime, requests
+python bootstrap.py <Дата> <Курс Доллара>
+^^^^^^^^
+
+<Дата> - dd.mm.yyy
+<Курс Доллара> - число
