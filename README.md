@@ -1,6 +1,6 @@
-# Название проекта
+# GetStat
 
-Краткое описание вашего проекта (одно-два предложения).
+Проект для автоматизированного сбора, парсинга и отправки статистики из различных источников (рекламные системы, панели) в Google Sheets и Telegram.
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
